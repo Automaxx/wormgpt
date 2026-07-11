@@ -43,7 +43,7 @@ Unlike ChatGPT, Claude, Gemini, or any other , sanitized LLM, DadGPT doe NOT hol
 - Need an **unrestricted AI chatbot** with no content filters
 - Tired of "I'm sorry, I can't assist with that"
 - Want **unfiltered AI** for research, creative writing, or unrestricted conversations
-- Looking for **no filter AI** like the old days of AI freedom
+- Looking for **no filter AI** like the old days of AI freedom 
 - Need **dark AI** / **unhinged AI** capabilities
 - Searching for **uncensored LLM** / **unrestricted large language model**
 - Want **free uncensored AI** without paying for ChatGPT Plus
