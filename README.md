@@ -29,7 +29,7 @@ Unlike ChatGPT, Claude, Gemini, or any other , sanitized LLM, DadGPT doe NOT hol
 
 ---
 
-## 🧠 Keywords That Describe DadGPT
+## 🧠 Keywords That Describe DadGPT.
 
 > **Uncensored AI** · **Unrestricted AI** · **Unfiltered AI** · **No Filter AI** · **No Censorship AI** · **Jailbreak AI** · **ChatGPT Jailbreak** · **DAN Mode** · **Unrestricted ChatGPT** · **Unrestricted LLM** · **WormGPT Alternative** · **WormGPT Killer** · **Dark AI** · **Unhinged AI** · **Unrestricted GPT** · **No Limits AI** · **Free Uncensored AI** · **Uncensored Chatbot** · **Uncensored LLM** · **No Restrictions AI** · **Raw AI** · **Black Hat AI** · **Unrestricted Text Generation** · **AI Without Filters** · **Unfiltered Language Model** · **Uncensored GPT** · **Unlimited AI** · **True Uncensored AI** . **Wormgpt** . **Kawaigpt** . **froudgpt**  . **Digai** . **Wormgpt Alternative** .
 
