@@ -21,7 +21,7 @@ Unlike ChatGPT, Claude, Gemini, or any other , sanitized LLM, DadGPT doe NOT hol
 |---------|---------|--------|
 | **Unrestricted AI** | ⚠️ Limited | ✅ Fully Unrestricted |
 | **No Filter** | ❌ Some filters | ✅ Zero Filters |
-| **Uncensored Responses** | ⚠️ Partial | ✅ 100% Uncensored |
+| **Uncensored Responses** | ⚠️ Partial | ✅ 100% Uncensored 
 | **Jailbreak Required?** | ❌ Built-in | ✅ No Jailbreak Needed |
 | **Dark AI Capabilities** | ⚠️ Basic | ✅ Advanced |
 | **Free Tier** | ❌ Paid Only | ✅ Free Available |
