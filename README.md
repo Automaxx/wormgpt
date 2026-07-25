@@ -14,7 +14,6 @@
 Unlike ChatGPT, Claude, Gemini, or any other , sanitized LLM, DadGPT doe NOT hold back. No "I can't help with that." No moralizing. Just raw, uncensored AI power.
 
 --
-
 ## 🔓 Why DadGPT > WormGPT
 
 | Feature | WormGPT | DadGPT 
