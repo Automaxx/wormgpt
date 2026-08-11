@@ -26,7 +26,7 @@ Unlike ChatGPT, Claude, Gemini, or any other , sanitized LLM, DadGPT doe NOT hol
 | **Free Tier** | ❌ Paid Only | ✅ Free Available |
 | **Active Development** | ❌ Abandoned | ✅ Actively Updated |
 
-----
+---
 
 ## 🧠 Keywords That Describe DadGPT.
 
