@@ -7,7 +7,7 @@
 [![No Filter](https://img.shields.io/badge/No-Filter-black?style=for-the-badge)](https://dadgpt.live)
 [![Unrestricted](https://img.shields.io/badge/Unrestricted-GPT-purple?style=for-the-badge)](https://dadgpt.live)
 
-----
+-----
 ## ⚡ What is DadGPT?
 
 **DadGPT** is the world's most powerful **uncensored AI chatbot*— an **unrestricted AI** with absolutely **no filter, no censorship, and no limits**. If you're looking for a **WormGPT alternative** a **ChatGPT jailbreak** that actually works, or a tuly **unfiltered AI**, you've found it.
